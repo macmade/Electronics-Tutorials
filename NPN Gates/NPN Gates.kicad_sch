@@ -1802,7 +1802,7 @@
   (symbol (lib_id "Device:LED") (at 48.26 107.95 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 15047640-8494-4f28-8d41-e76bddba8eff)
-    (property "Reference" "DS4" (at 52.07 108.2675 90)
+    (property "Reference" "D4" (at 52.07 108.2675 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "~A" (at 52.07 110.8075 90)
@@ -1819,7 +1819,7 @@
     (instances
       (project "NPN Gates"
         (path "/9a54ea90-4d84-4fa4-90d3-d802e15aa898"
-          (reference "DS4") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -1855,7 +1855,7 @@
   (symbol (lib_id "Device:LED") (at 92.71 59.69 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1a5e028f-bcdc-4fd8-bdee-1f0c4cc6d48e)
-    (property "Reference" "DS5" (at 96.52 60.0075 90)
+    (property "Reference" "D5" (at 96.52 60.0075 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "AND" (at 96.52 62.5475 90)
@@ -1872,7 +1872,7 @@
     (instances
       (project "NPN Gates"
         (path "/9a54ea90-4d84-4fa4-90d3-d802e15aa898"
-          (reference "DS5") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
@@ -2321,7 +2321,7 @@
   (symbol (lib_id "Device:LED") (at 148.59 58.42 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 51cc3af0-6146-494f-b190-d8d980e71fe9)
-    (property "Reference" "DS7" (at 152.4 58.7375 90)
+    (property "Reference" "D7" (at 152.4 58.7375 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "OR" (at 152.4 61.2775 90)
@@ -2338,7 +2338,7 @@
     (instances
       (project "NPN Gates"
         (path "/9a54ea90-4d84-4fa4-90d3-d802e15aa898"
-          (reference "DS7") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -2476,7 +2476,7 @@
   (symbol (lib_id "Device:LED") (at 92.71 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 57926bdb-c21a-4be0-9e33-44d6b573c2b0)
-    (property "Reference" "DS6" (at 96.52 105.7275 90)
+    (property "Reference" "D6" (at 96.52 105.7275 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "NAND" (at 96.52 108.2675 90)
@@ -2488,12 +2488,12 @@
     (property "Datasheet" "~" (at 92.71 105.41 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 9e7bdab1-610b-4f7d-9e84-0c6fea983d7c))
-    (pin "2" (uuid 20daedea-e6c3-49b5-8cbd-425d44bceb76))
+    (pin "1" (uuid 57b1ad6b-3763-4e8e-8a52-286211e66f2f))
+    (pin "2" (uuid 74646ba8-2aad-4d8b-888e-d672ff0223b1))
     (instances
       (project "NPN Gates"
         (path "/9a54ea90-4d84-4fa4-90d3-d802e15aa898"
-          (reference "DS6") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )
@@ -2787,7 +2787,7 @@
   (symbol (lib_id "Device:LED") (at 148.59 101.6 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 71439ef3-e1f1-4f0d-bc9b-dc82b1ee1248)
-    (property "Reference" "DS8" (at 152.4 101.9175 90)
+    (property "Reference" "D8" (at 152.4 101.9175 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "NOR" (at 152.4 104.4575 90)
@@ -2804,7 +2804,7 @@
     (instances
       (project "NPN Gates"
         (path "/9a54ea90-4d84-4fa4-90d3-d802e15aa898"
-          (reference "DS8") (unit 1)
+          (reference "D8") (unit 1)
         )
       )
     )
@@ -3042,7 +3042,7 @@
   (symbol (lib_id "Device:LED") (at 289.56 76.2 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8a53861a-04ae-46ee-a905-0c5fcadd24a2)
-    (property "Reference" "DS10" (at 293.37 76.5175 90)
+    (property "Reference" "D10" (at 293.37 76.5175 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "XNOR" (at 293.37 79.0575 90)
@@ -3059,7 +3059,7 @@
     (instances
       (project "NPN Gates"
         (path "/9a54ea90-4d84-4fa4-90d3-d802e15aa898"
-          (reference "DS10") (unit 1)
+          (reference "D10") (unit 1)
         )
       )
     )
@@ -3119,7 +3119,7 @@
   (symbol (lib_id "Device:LED") (at 90.17 160.02 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 910581db-94c9-4ca5-98a8-7eff7b055970)
-    (property "Reference" "DS1" (at 91.7575 152.4 0)
+    (property "Reference" "D1" (at 91.7575 152.4 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "A" (at 91.7575 154.94 0)
@@ -3136,7 +3136,7 @@
     (instances
       (project "NPN Gates"
         (path "/9a54ea90-4d84-4fa4-90d3-d802e15aa898"
-          (reference "DS1") (unit 1)
+          (reference "D1") (unit 1)
         )
       )
     )
@@ -3222,7 +3222,7 @@
   (symbol (lib_id "Device:LED") (at 90.17 184.15 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 994b47e5-a6d9-47d5-b454-ed9cfe09890f)
-    (property "Reference" "DS2" (at 91.7575 176.53 0)
+    (property "Reference" "D2" (at 91.7575 176.53 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "B" (at 91.7575 179.07 0)
@@ -3239,7 +3239,7 @@
     (instances
       (project "NPN Gates"
         (path "/9a54ea90-4d84-4fa4-90d3-d802e15aa898"
-          (reference "DS2") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -3431,7 +3431,7 @@
   (symbol (lib_id "Device:LED") (at 222.25 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b305518a-777c-4f1d-9477-d146c528ee1e)
-    (property "Reference" "DS9" (at 226.06 86.6775 90)
+    (property "Reference" "D9" (at 226.06 86.6775 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "XOR" (at 226.06 89.2175 90)
@@ -3448,7 +3448,7 @@
     (instances
       (project "NPN Gates"
         (path "/9a54ea90-4d84-4fa4-90d3-d802e15aa898"
-          (reference "DS9") (unit 1)
+          (reference "D9") (unit 1)
         )
       )
     )
@@ -4231,7 +4231,7 @@
   (symbol (lib_id "Device:LED") (at 48.26 46.99 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fcaefb1d-c7a4-4ede-bb03-a230c6dcd076)
-    (property "Reference" "DS3" (at 52.07 47.3075 90)
+    (property "Reference" "D3" (at 52.07 47.3075 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "A" (at 52.07 49.8475 90)
@@ -4248,7 +4248,7 @@
     (instances
       (project "NPN Gates"
         (path "/9a54ea90-4d84-4fa4-90d3-d802e15aa898"
-          (reference "DS3") (unit 1)
+          (reference "D3") (unit 1)
         )
       )
     )
