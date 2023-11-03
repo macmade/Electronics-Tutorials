@@ -1337,7 +1337,7 @@
   (symbol (lib_id "Device:LED") (at 195.58 115.57 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 74b745de-b6fc-48f7-af3c-f7fcd1ca7b66)
-    (property "Reference" "DS2" (at 197.1675 107.95 0)
+    (property "Reference" "D2" (at 197.1675 107.95 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "~Q" (at 197.1675 110.49 0)
@@ -1354,7 +1354,7 @@
     (instances
       (project "SR Latch"
         (path "/216a0792-1cac-4e9e-9a5e-17e3ce501423"
-          (reference "DS2") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -1414,7 +1414,7 @@
   (symbol (lib_id "Device:LED") (at 194.31 60.96 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7daffaea-4e53-44a7-9feb-8539b8e57c29)
-    (property "Reference" "DS1" (at 195.8975 53.34 0)
+    (property "Reference" "D1" (at 195.8975 53.34 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "Q" (at 195.8975 55.88 0)
@@ -1431,7 +1431,7 @@
     (instances
       (project "SR Latch"
         (path "/216a0792-1cac-4e9e-9a5e-17e3ce501423"
-          (reference "DS1") (unit 1)
+          (reference "D1") (unit 1)
         )
       )
     )
