@@ -20,6 +20,11 @@ http://www.kicad-pcb.org
 
 This project requires the [XS-Labs KiCad Library](https://github.com/macmade/XS-KiCad-Library) to be installed in KiCad.
 
+### Projects
+
+  - [Astable Multivibrator](#1)
+
+<a name="1"></a>
 Astable Multivibrator
 ---------------------
 
@@ -39,11 +44,11 @@ Astable Multivibrator
 | Wurth Elektronik        | [691214110002]       | Fixed Terminal Blocks WR-TBL 300VAC 10A 2P Horizontal                    | 1        |
 
 [BC547BTF]: https://www.mouser.ch/ProductDetail/onsemi-Fairchild/BC547BTF?qs=GcrAnsq4Ss7FY6sMmzmP8w%3D%3D
-[MAL214258109E3]: https://www.mouser.ch/ProductDetail/Vishay-BC-Components/MAL214258109E3?qs=Ep9Lwju7gVpkbTfs9dlKug%3D%3D
+[MAL214258109E3]: https://www.mouser.ch/ProductDetail/Vishay-BC-Components/MAL203858109E3?qs=G99oyVYclWWJ4E%2Fuyfur8w%3D%3D
 [4302H1-5V]: https://www.mouser.ch/ProductDetail/VCC/4302H1-5V?qs=N8%252Bk0S5zvCYVMSKI8UXqiw%3D%3D
 [CCF071K00JKE36]: https://www.mouser.ch/ProductDetail/Vishay-Dale/CCF071K00JKE36?qs=NQWA6AwZmkMdaaeOGvuguw%3D%3D
 [CCF07100KJKE36]: https://www.mouser.ch/ProductDetail/Vishay-Dale/CCF07100KJKE36?qs=2C0eY6jyEMg5anHdnDFVuA%3D%3D
-[691214110002]: https://www.mouser.ch/ProductDetail/710-691214110002
+[691214110002]: https://www.mouser.ch/ProductDetail/Wurth-Elektronik/691214110002?qs=7gQLVZk5cPmb9EqUyfv%252B2g%3D%3D
 
 License
 -------
