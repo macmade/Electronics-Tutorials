@@ -45,12 +45,12 @@ Astable Multivibrator
 | Vishay                  | [CCF07100KJKE36]     | Metal Film Resistors 1/4watt 100Kohms 5%                                 | 2        |
 | Wurth Elektronik        | [691214110002]       | Fixed Terminal Blocks WR-TBL 300VAC 10A 2P Horizontal                    | 1        |
 
-[BC547BTF]: https://www.mouser.ch/ProductDetail/onsemi-Fairchild/BC547BTF?qs=GcrAnsq4Ss7FY6sMmzmP8w%3D%3D
-[MAL214258109E3]: https://www.mouser.ch/ProductDetail/Vishay-BC-Components/MAL203858109E3?qs=G99oyVYclWWJ4E%2Fuyfur8w%3D%3D
-[4302H1-12V]: https://www.mouser.ch/ProductDetail/VCC/4302H1-12V?qs=I7nE1oQSFs%252BsAaSQbADByg%3D%3D
-[CCF071K00JKE36]: https://www.mouser.ch/ProductDetail/Vishay-Dale/CCF071K00JKE36?qs=NQWA6AwZmkMdaaeOGvuguw%3D%3D
-[CCF07100KJKE36]: https://www.mouser.ch/ProductDetail/Vishay-Dale/CCF07100KJKE36?qs=2C0eY6jyEMg5anHdnDFVuA%3D%3D
-[691214110002]: https://www.mouser.ch/ProductDetail/Wurth-Elektronik/691214110002?qs=7gQLVZk5cPmb9EqUyfv%252B2g%3D%3D
+[BC547BTF]: https://www.mouser.ch/ProductDetail/512-BC547BTF
+[MAL214258109E3]: https://www.mouser.ch/ProductDetail/594-MAL203858109E3
+[4302H1-12V]: https://www.mouser.ch/ProductDetail/606-4302H1-12V
+[CCF071K00JKE36]: https://www.mouser.ch/ProductDetail/71-CCF071K00JKE36
+[CCF07100KJKE36]: https://www.mouser.ch/ProductDetail/71-CCF07100KJKE36
+[691214110002]: https://www.mouser.ch/ProductDetail/710-691214110002
 
 <a name="2"></a>
 SR Latch
