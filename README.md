@@ -24,7 +24,7 @@ This project requires the [XS-Labs KiCad Library](https://github.com/macmade/XS-
 
   - [Astable Multivibrator](#1)
   - [SR Latch](#2)
-  - [NPN Gates](#3)
+  - [NPN Logic Gates](#3)
 
 <a name="1"></a>
 Astable Multivibrator
@@ -85,8 +85,8 @@ SR Latch
 [691214110002]: https://www.mouser.ch/ProductDetail/710-691214110002
 
 <a name="3"></a>
-NPN Gates
----------
+NPN Logic Gates
+---------------
 
 ![3D](https://raw.githubusercontent.com/macmade/Electronics-Tutorials/master/Assets/NPN-Gates-3D.png)
 ![Top](https://raw.githubusercontent.com/macmade/Electronics-Tutorials/master/Assets/NPN-Gates-Top.png)
@@ -103,14 +103,14 @@ NPN Gates
 | NKK Switches            | [M2012SA1W03]        | Toggle Switches ON-ON PC SPDT                                            | 2        |
 | Wurth Elektronik        | [691214110002]       | Fixed Terminal Blocks WR-TBL 300VAC 10A 2P Horizontal                    | 1        |
 
-[BC547BTF]: https://www.mouser.ch/ProductDetail/onsemi-Fairchild/BC547BTF?qs=GcrAnsq4Ss7FY6sMmzmP8w%3D%3D
-[4302H5-12V]: https://www.mouser.ch/ProductDetail/VCC/4302H5-12V?qs=I7nE1oQSFs9Q1s%2F%252BOaNzdw%3D%3D
-[4302H1-12V]: https://www.mouser.ch/ProductDetail/VCC/4302H1-12V?qs=I7nE1oQSFs%252BsAaSQbADByg%3D%3D
-[CCF07390RJKE36]: https://www.mouser.ch/ProductDetail/Vishay-Dale/CCF07390RJKE36?qs=GXUZvAFNa0ohtCtagujS8g%3D%3D
-[CCF071K00JKE36]: https://www.mouser.ch/ProductDetail/Vishay-Dale/CCF071K00JKE36?qs=NQWA6AwZmkMdaaeOGvuguw%3D%3D
-[CCF0710K0JKE36]: https://www.mouser.ch/ProductDetail/Vishay-Dale/CCF0710K0JKE36?qs=NQWA6AwZmkNSbeldIV%252BliA%3D%3D
-[M2012SA1W03]: https://www.mouser.ch/ProductDetail/NKK-Switches/M2012SA1W03?qs=7qTko1p7JkMWph6qTPDvKQ%3D%3D
-[691214110002]: https://www.mouser.ch/ProductDetail/Wurth-Elektronik/691214110002?qs=7gQLVZk5cPmb9EqUyfv%252B2g%3D%3D
+[BC547BTF]: https://www.mouser.ch/ProductDetail/512-BC547BTF
+[4302H5-12V]: https://www.mouser.ch/ProductDetail/606-4302H5-12V
+[4302H1-12V]: https://www.mouser.ch/ProductDetail/606-4302H1-12V
+[CCF07390RJKE36]: https://www.mouser.ch/ProductDetail/71-CCF07390RJKE36
+[CCF071K00JKE36]: https://www.mouser.ch/ProductDetail/71-CCF071K00JKE36
+[CCF0710K0JKE36]: https://www.mouser.ch/ProductDetail/71-CCF0710K0JKE36
+[M2012SA1W03]: https://www.mouser.ch/ProductDetail/633-M2012A03
+[691214110002]: https://www.mouser.ch/ProductDetail/710-691214110002
 
 License
 -------
